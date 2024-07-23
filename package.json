@@ -1,0 +1,32 @@
+{
+  "name": "jseslintpretier",
+  "version": "1.0.0",
+  "description": "installing eslint, pretier",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "eslint": "eslint",
+    "prettier": "prettier"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Fatimasl/JSEslintPretier.git"
+  },
+  "keywords": [
+    "eslint",
+    "pretier"
+  ],
+  "author": "Lebedeva Sofiia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fatimasl/JSEslintPretier/issues"
+  },
+  "homepage": "https://github.com/Fatimasl/JSEslintPretier#readme",
+  "devDependencies": {
+    "@halflife/gitlens": "^1.2.0",
+    "eslint": "^9.7.0",
+    "eslint-plugin-prettier": "^5.2.1",
+    "eslint-plugin-unicorn": "^54.0.0",
+    "pretier": "^0.0.1"
+  }
+}
